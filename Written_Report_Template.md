@@ -30,11 +30,11 @@
   You can see clearly that the optimal time to launch would be in May or Early Summer. Also overall Launches are more successful than they are failures. 
   
 - What can you conclude about the Outcomes based on Goals?
-- 
-  If you keep your goal smaller you have a higher chance of success when funding your play. 
+
+If you keep your goal smaller you have a higher chance of success when funding your play. 
   
 - What are some limitations of this dataset?
-- 
+
   It doesn't account for seasonal productions. Christmas and Holiday plays may be more likely to be funded in the Holiday season but the data has a hard time capturing that. Also if we had a category for playright or artist we may glean some data on if there specific productions are more likely to be funded. 
 - What are some other possible tables and/or graphs that we could create?
 
